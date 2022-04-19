@@ -25,6 +25,10 @@
       font-size: 1.125rem;
       color: var(--gray-100);
 
+      img {
+        max-width: 600px;
+      }
+
       p, ul {
         margin: 1.5rem 0;
       }
