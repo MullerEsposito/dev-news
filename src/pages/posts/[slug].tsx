@@ -17,7 +17,7 @@ export default function PostDetails({ post }: PostProps) {
   return (
     <>
       <Head>
-        <title>{ post?.title } | Ignews</title>
+        <title>{ post?.title } | DevNews</title>
       </Head>
 
       <main className={styles.container}>

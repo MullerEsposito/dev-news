@@ -18,7 +18,7 @@ export default function Home({ product }: HomeProps) {
   return (
     <>
       <Head>
-        <title>Home - IGnews</title>f
+        <title>Home - DevNews</title>f
       </Head>
       <main className={styles.container}>
         <section className={styles.hero}>

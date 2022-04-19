@@ -29,7 +29,7 @@ export default function PostPreview({ post }: PostPreviewProps) {
   return (
     <>
       <Head>
-        <title>{ post?.title } | Ignews</title>
+        <title>{ post?.title } | DevNews</title>
       </Head>
 
       <main className={styles.container}>
