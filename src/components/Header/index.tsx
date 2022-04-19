@@ -14,7 +14,8 @@ export function Header() {
   return (
     <header className={styles.container}>
       <div className={styles.content}>
-        <img src={"/images/logo.svg"} alt="ig.news"/>
+        {/* <img src={"/images/logo.svg"} alt="ig.news"/> */}
+        <p className={styles.title}>Müller's Blog</p>
         <nav>
           <Link href="/">
             <a className={active['/']}>Home</a>
